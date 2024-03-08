@@ -1,0 +1,2 @@
+pfse_starterkit
+python-docx
